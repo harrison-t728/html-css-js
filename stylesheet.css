@@ -1,0 +1,21 @@
+h1 { 
+	font-family: Comic Sans MS;
+	font-size: small; 
+	color: #4C5B13;
+	background-color #4C5B13;
+	border-width: 1px;
+	border-style: solid;
+	border-color #4C5B13;
+	width: 50%;
+	height: 30px;
+}
+
+html {
+   	cursor: url('curosr.png'), pointer;
+	background-image: linear-gradient(to bottom, #999966 27%, #663300 68%);
+	
+}
+
+body {
+    background-color: linear-gradient(to bottom, #999966 27%, #663300 68%);
+}
